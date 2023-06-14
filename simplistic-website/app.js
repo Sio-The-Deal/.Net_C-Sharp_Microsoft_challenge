@@ -1,1 +1,1 @@
-app.js
+'use strict';
